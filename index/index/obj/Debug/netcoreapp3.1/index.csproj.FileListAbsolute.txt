@@ -1,0 +1,13 @@
+C:\Users\bulah\source\repos\index\index\bin\Debug\netcoreapp3.1\index.exe
+C:\Users\bulah\source\repos\index\index\bin\Debug\netcoreapp3.1\index.deps.json
+C:\Users\bulah\source\repos\index\index\bin\Debug\netcoreapp3.1\index.runtimeconfig.json
+C:\Users\bulah\source\repos\index\index\bin\Debug\netcoreapp3.1\index.runtimeconfig.dev.json
+C:\Users\bulah\source\repos\index\index\bin\Debug\netcoreapp3.1\index.dll
+C:\Users\bulah\source\repos\index\index\bin\Debug\netcoreapp3.1\index.pdb
+C:\Users\bulah\source\repos\index\index\obj\Debug\netcoreapp3.1\index.csproj.AssemblyReference.cache
+C:\Users\bulah\source\repos\index\index\obj\Debug\netcoreapp3.1\index.AssemblyInfoInputs.cache
+C:\Users\bulah\source\repos\index\index\obj\Debug\netcoreapp3.1\index.AssemblyInfo.cs
+C:\Users\bulah\source\repos\index\index\obj\Debug\netcoreapp3.1\index.csproj.CoreCompileInputs.cache
+C:\Users\bulah\source\repos\index\index\obj\Debug\netcoreapp3.1\index.dll
+C:\Users\bulah\source\repos\index\index\obj\Debug\netcoreapp3.1\index.pdb
+C:\Users\bulah\source\repos\index\index\obj\Debug\netcoreapp3.1\index.genruntimeconfig.cache
